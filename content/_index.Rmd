@@ -1,0 +1,70 @@
+---
+title: Home
+editor_options: 
+  chunk_output_type: console
+output: 
+  html_document:
+    fig_width: 15
+    fig_height: 10
+---
+
+[<img src="jerry_thinking_edit.png" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](jerry_thinking_edit.png)
+
+# Gerry Tonkin-Hill
+
+#### *PhD student*          
+[![](http://i.imgur.com/wWzX9uB.png)](http://www.twitter.com/gerrythill) [![](http://i.imgur.com/9I6NRUm.png)](http://www.github.com/gtonkinhill) 
+
+I'm an applied statistician mainly working on infectious disease. I am completing a PhD under the supervision of [Stephen Bentley](http://www.sanger.ac.uk/people/directory/bentley-stephen-d), [Simon Frost](https://www.vet.cam.ac.uk/directory/sdf22@cam.ac.uk) and [Jukka Corander](https://www.med.uio.no/imb/english/people/aca/jukkac/) at the WTSI and Cambridge University. My PhD project is focused on applying Bayesian statistical techniques to infer Pneumococcal transmission networks from deep sequenced data. Previously, I have worked on Malaria with Tony Papenfuss, Michael Duffy and Karen Day investigating the major virulence factor Pfemp1 in *Plasmodium falciparum*.
+
+
+<center> <h4>Changes in Infectious Disease DALYs 1990-2016</h4> </center>
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library(ggplot2)
+library(plotly)
+library(data.table)
+
+disease.data <- fread("../data/IHME-GBD_communicable_data.csv")
+
+disease.data <- disease.data[disease.data$measure!="Deaths",]
+disease.data <- disease.data[disease.data$metric=="Number",]
+
+categories <- fread("../data/categories.csv")
+
+disease.data <- merge(disease.data, categories, by.x="cause", by.y="cause", all.x = TRUE)
+disease.data <- disease.data[!is.na(disease.data$category),]
+colnames(disease.data) <- c("cause", "measure", "location", "sex", "age", "metric", "year",
+                            "DALYs", "upper",  "lower", "category")
+
+p <- ggplot(disease.data) +
+  geom_point(aes(x=DALYs, y=cause, color = category, size = DALYs, frame = year, ids = cause)) +
+  theme_bw() +
+  scale_x_sqrt() +
+  theme(axis.text.y = element_text(size=5))
+
+#TODO: Fix the legend so that it displays nicely below the plot
+p <- ggplotly(p, tooltip=c("cause", "DALYs")) %>% 
+  animation_opts(
+    1000, easing = "linear", redraw = FALSE
+  ) %>% 
+  animation_button(
+    x = 1, xanchor = "right", y = 0, yanchor = "bottom"
+  ) %>%
+  animation_slider(hide=FALSE,
+    currentvalue = list(prefix = "YEAR ", font = list(color="black"))
+  ) %>%
+  layout(showlegend = FALSE, legend = list(x = -100, y = -200, size=0.1),
+         xaxis = list(title = "Disability Adjusted Life Years"),
+         yaxis = list(title = "Cause"))
+p
+
+```
+
+
+Institute for Health Metrics and Evaluation (IHME). GBD Compare Data Visualization. Seattle, WA: IHME, University of Washington, 2017. Available from http://vizhub.healthdata.org/gbd-compare. (Accessed December 2017)
+
+
+<hr/>
+
+### Blog

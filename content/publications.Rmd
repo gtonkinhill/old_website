@@ -1,0 +1,10 @@
+---
+title: 'Publications'
+bibliography: ["my_references.bib"]
+biblio-style: "chicago"
+link-citations: true
+---
+
+---
+nocite: '@*'
+...

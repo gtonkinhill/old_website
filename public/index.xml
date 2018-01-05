@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Gerry Tonkin-Hill</title>
+    <link>/</link>
+    <description>Recent content in Home on Gerry Tonkin-Hill</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/post/2015/07/23/hello-r-markdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015/07/23/hello-r-markdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description> PhD Mathematical Genomics, University of Cambridge Research Assistant, Walter and Eliza Hall Institute MSc Probability and Statistics, University of Melbourne Optimisation Consultant, Biarri Commercial Mathematics BSc Applied Mathematics, University of Melbourne  </description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>Chou, Evelyn S, Sabia Z Abidi, Marian Teye, Aleksandra Leliwa-Sytek, Thomas S Rask, Simon A Cobbold, Gerry Q Tonkin-Hill, et al. 2017. “A High Parasite Density Environment Induces Transcriptional Changes and Cell Death in Plasmodium Falciparum Blood Stages.” FEBS J., December. doi:10.1111/febs.14370.
+ Lees, John A, Gerry Tonkin-Hill, and Stephen D Bentley. 2017. “Stronger Together.” Nat. Rev. Microbiol., August. doi:10.1038/nrmicro.2017.95.
+ Mitchell, Michela L, Brett R Hamilton, Bruno Madio, Rodrigo A V Morales, Gerry Q Tonkin-Hill, Anthony T Papenfuss, Anthony W Purcell, Glenn F King, Eivind A B Undheim, and Raymond S Norton.</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software/</guid>
+      <description>Starmie R package developed with Stuart Lee to make post processing of population structure software output easier.
+ rhierBAPS R package implementing the hierBAPS algorithm.
+ falciparum transcriptome scripts Scripts used in analysing Plasmodium falciparum transciptome data.
+ </description>
+    </item>
+    
+  </channel>
+</rss>
