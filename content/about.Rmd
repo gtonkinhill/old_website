@@ -2,7 +2,7 @@
 title: About
 ---
 
-* PhD Mathematical Genomics, University of Cambridge & Wellcome Sanger Institute
+* PhD Candidate in Mathematical Genomics, University of Cambridge & Wellcome Sanger Institute
 * Research Assistant, Walter and Eliza Hall Institute
 * MSc Probability and Statistics, University of Melbourne
 * Optimisation Consultant, Biarri Commercial Mathematics
