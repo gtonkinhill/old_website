@@ -15,7 +15,7 @@ output:
 #### *PhD student*          
 [![](http://i.imgur.com/wWzX9uB.png)](http://www.twitter.com/gerrythill) [![](http://i.imgur.com/9I6NRUm.png)](http://www.github.com/gtonkinhill) 
 
-I'm an applied statistician mainly working on infectious disease. I am completing a PhD under the supervision of [Stephen Bentley](http://www.sanger.ac.uk/people/directory/bentley-stephen-d), [Simon Frost](https://www.vet.cam.ac.uk/directory/sdf22@cam.ac.uk) and [Jukka Corander](https://www.med.uio.no/imb/english/people/aca/jukkac/) at the WTSI and Cambridge University. My PhD project is focused on applying Bayesian statistical techniques to infer Pneumococcal transmission networks from deep sequenced data. Previously, I have worked on Malaria with Tony Papenfuss, Michael Duffy and Karen Day investigating the major virulence factor Pfemp1 in *Plasmodium falciparum*.
+I'm an applied statistician mainly working on infectious disease. I am completing a PhD under the supervision of [Stephen Bentley](http://www.sanger.ac.uk/people/directory/bentley-stephen-d), [Simon Frost](https://www.vet.cam.ac.uk/directory/sdf22@cam.ac.uk) and [Jukka Corander](https://www.med.uio.no/imb/english/people/aca/jukkac/) at the WTSI and Cambridge University. My PhD project is focused on applying Bayesian statistical techniques to infer Pneumococcal transmission networks from deep sequenced data. Previously I worked on Malaria with Tony Papenfuss, Michael Duffy and Karen Day investigating the major virulence factor Pfemp1 in *Plasmodium falciparum*.
 
 
 <center> <h4>Changes in Infectious Disease DALYs 1990-2016</h4> </center>
