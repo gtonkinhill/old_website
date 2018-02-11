@@ -38,7 +38,8 @@
       <guid>/software/</guid>
       <description>Starmie R package developed with Stuart Lee to make post processing of population structure software output easier.
  rhierBAPS R package implementing the hierBAPS algorithm.
- falciparum transcriptome scripts Scripts used in analysing Plasmodium falciparum transciptome data.
+ Plasmodium falciparum transcriptome analysis scripts Scripts used in analysing differential expression in Plasmodium falciparum transcriptome data.
+ VAR gene assembly pipeline A pipeline for the assembly of Plasmodium falciparum VAR genes from short read RNA-seq data.
  </description>
     </item>
     

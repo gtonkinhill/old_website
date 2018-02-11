@@ -8,5 +8,8 @@ R package developed with [Stuart Lee](https://github.com/sa-lee) to make post pr
 ###[rhierBAPS](https://github.com/gtonkinhill/rhierbaps)
 R package implementing the hierBAPS algorithm.
 
-###*falciparum* transcriptome scripts
-Scripts used in analysing *Plasmodium falciparum* transciptome data.
+###[*Plasmodium falciparum* transcriptome analysis scripts](https://github.com/gtonkinhill/falciparum_transcriptome_manuscript)
+Scripts used in analysing differential expression in *Plasmodium falciparum* transcriptome data.
+
+###[VAR gene assembly pipeline](https://github.com/PapenfussLab/assemble_var)
+A pipeline for the assembly of *Plasmodium falciparum* VAR genes from short read RNA-seq data.
