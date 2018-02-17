@@ -35,5 +35,5 @@ footnotereturnlinkcontents = "↩"
 
 [params]
       description = "Gerry Tonkin-Hill's personal website."
-      footer = "[Github](https://github.com/gtonkinhill) | [Twitter](https://twitter.com/gerrythill)"
+      footer = "[Github](https://github.com/gtonkinhill) | [Twitter](https://twitter.com/gerrythill) | [ORCID](https://orcid.org/0000-0003-4397-2224)"
       favicon = "favicon.png"
