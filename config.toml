@@ -2,15 +2,11 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Gerry Tonkin-Hill"
 theme = "hugo-xmin"
-googleAnalytics = ""
+googleAnalytics = "UA-114314394-1"
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
-
-# Enable analytics by entering your Google Analytics tracking ID
-GoogleAnalytics = "UA-114314394-1"
-
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
