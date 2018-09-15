@@ -13,10 +13,10 @@ output:
 # Gerry Tonkin-Hill
 
 #### *PhD student*          
-[![](http://i.imgur.com/wWzX9uB.png)](http://www.twitter.com/gerrythill) [![](http://i.imgur.com/9I6NRUm.png)](http://www.github.com/gtonkinhill)
+[![](twitter-icon-circle-logo.png)](http://www.twitter.com/gerrythill) [![](github_logo.png)](http://www.github.com/gtonkinhill)
 [![](ID_symbol_B-W_16x16.png)](https://orcid.org/0000-0003-4397-2224)
 
-I'm an applied statistician mainly working on infectious disease. I am completing a PhD under the supervision of [Stephen Bentley](http://www.sanger.ac.uk/people/directory/bentley-stephen-d), [Simon Frost](https://www.vet.cam.ac.uk/directory/sdf22@cam.ac.uk) and [Jukka Corander](https://www.med.uio.no/imb/english/people/aca/jukkac/) at the WTSI and Cambridge University. My PhD project is focused on applying Bayesian statistical techniques to infer Pneumococcal transmission networks from deep sequenced data. Previously I worked on Malaria with Tony Papenfuss, Michael Duffy and Karen Day investigating the major virulence factor Pfemp1 in *Plasmodium falciparum*.
+I'm an applied statistician mainly working on infectious disease. I am completing a PhD under the supervision of [Stephen Bentley](http://www.sanger.ac.uk/people/directory/bentley-stephen-d), [Simon Frost](https://www.vet.cam.ac.uk/directory/sdf22@cam.ac.uk) and [Jukka Corander](https://www.med.uio.no/imb/english/people/aca/jukkac/) at the Wellcome Sanger Institute and Cambridge University. My PhD project is focused on applying statistical techniques to investigate within-host diversity and transmission in *Streptococcus pneumoniae*. Previously I worked on Malaria with Tony Papenfuss, Michael Duffy and Karen Day investigating the major virulence factor Pfemp1 in *Plasmodium falciparum*.
 
 
 <center> <h4>Changes in Infectious Disease DALYs 1990-2016</h4> </center>
