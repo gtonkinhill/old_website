@@ -2,6 +2,12 @@
 title: "Software"
 ---
 
+###[fastBAPS](https://github.com/gtonkinhill/fastbaps/)
+A fast approximation to a Dirichlet Process Mixture model (DPM) for clustering genetic data
+
+###[pairSNP](https://github.com/gtonkinhill/pairsnp)
+A set of scripts for very quickly obtaining pairwise SNP distance matrices from multiple sequence alignments using sparse matrix libraries to improve performance.
+
 ###[Starmie](https://github.com/sa-lee/starmie)
 R package developed with [Stuart Lee](https://github.com/sa-lee) to make post processing of population structure software output easier.
 
