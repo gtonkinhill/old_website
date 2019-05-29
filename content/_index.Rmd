@@ -65,7 +65,7 @@ p
 
 Institute for Health Metrics and Evaluation (IHME). GBD Compare Data Visualization. Seattle, WA: IHME, University of Washington, 2017. Available from http://vizhub.healthdata.org/gbd-compare. (Accessed December 2017)
 
-
+ 
 <hr/>
 
 ### Blog
