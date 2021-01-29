@@ -1,10 +1,50 @@
 ---
 title: 'Publications'
 bibliography: ["my_references.bib"]
-biblio-style: "chicago"
+biblio-style: "nature"
 link-citations: true
 ---
 
----
-nocite: '@*'
-...
+<!-- --- -->
+<!-- nocite: '@*' -->
+<!-- ... -->
+† = joint authorship
+
+
+Horesh, Gal, Grace A. Blackwell, **Gerry Tonkin-Hill**, Jukka Corander, Eva Heinz, and Nicholas R. Thomson. 2021. "A Comprehensive and High-Quality Collection of Escherichia Coli Genomes and Their Genes." *Microbial Genomics*, January. https://doi.org/10.1099/mgen.0.000499.
+
+**Tonkin-Hill, Gerry<sup>†</sup>**, Inigo Martincorena<sup>†</sup>, Roberto Amato, Andrew R. J. Lawson, Moritz Gerstung, Ian Johnston, David K. Jackson, et al. 2020. "Patterns of within-Host Genetic Diversity in SARS-CoV-2." *Cold Spring Harbor Laboratory*. bioRxiv. https://doi.org/10.1101/2020.12.23.424229.
+
+Hamilton, William L.<sup>†</sup>, **Gerry Tonkin-Hill<sup>†</sup>**, Emily Smith, Charlotte Houldcroft, Ben Warne, Luke Meredith, Myra Hosmillo, et al. 2020. "COVID-19 Infection Dynamics in Care Homes in the East of England: A Retrospective Genomic Epidemiology Study." *medRxiv*, September, 2020.08.26.20182279.
+
+**Tonkin-Hill, Gerry**, Neil MacAlasdair, Christopher Ruis, Aaron Weimann, Gal Horesh, John A. Lees, Rebecca A. Gladstone, et al. 2020. "Producing Polished Prokaryotic Pangenomes with the Panaroo Pipeline." *Genome Biology* 21 (1): 180.
+
+Chaguza, Chrispin, Marie Yang, Jennifer E. Cornick, Mignon du Plessis, Rebecca A. Gladstone, Brenda A. Kwambana-Adams, Stephanie W. Lo, et al. 2020. "Bacterial Genome-Wide Association Study of Hyper-Virulent Pneumococcal Serotype 1 Identifies Genetic Variation Associated with Neurotropism." *Communications Biology* 3 (1): 559.
+
+Wichers, Jan Stephan, **Gerry Tonkin-Hill**, Thorsten Thye, Ralf Krumkamp, Jan Strauss, Heidrun von Thien, Benno Kreuels, et al. 2020. "Direct Ex Vivo Gene Expression Profiling of Malaria Patients Reveals Common Virulence Gene Expression in First-Time Infected Patients and Severe Cases." *Cold Spring Harbor Laboratory*. https://doi.org/10.1101/2020.11.13.381137.
+
+Mitchell, Michela L., **Gerry Tonkin-Hill**, Rodrigo A. V. Morales, Anthony W. Purcell, Anthony T. Papenfuss, and Raymond S. Norton. 2020. "Tentacle Transcriptomes of the Speckled Anemone (Actiniaria: Actiniidae: Oulactis Sp.): Venom-Related Components and Their Domain Structure." *Marine Biotechnology* , January. https://doi.org/10.1007/s10126-020-09945-8.
+
+Lees, John A., Simon R. Harris, **Gerry Tonkin-Hill**, Rebecca A. Gladstone, Stephanie W. Lo, Jeffrey N. Weiser, Jukka Corander, Stephen D. Bentley, and Nicholas J. Croucher. 2019. "Fast and Flexible Bacterial Genomic Epidemiology with PopPUNK." *Genome Research* 29 (2): 304--16.
+
+Corander, Jukka, Nicholas Croucher, Simon Harris, John Lees, and **Gerry Tonkin‐Hill**. 2019. *Handbook of Statistical Genomics*. Edited by David Balding, Ida Moltke, and John Marioni. 1st ed. Vol. 162. Wiley.
+
+Pensar, Johan, Santeri Puranen, Brian Arnold, Neil MacAlasdair, Juri Kuronen, **Gerry Tonkin-Hill**, Maiju Pesonen, et al. 2019. “Genome-Wide Epistasis and Co-Selection Study Using Mutual Information.” *Nucleic Acids Research*, July. https://doi.org/10.1093/nar/gkz656.
+
+**Tonkin-Hill, Gerry**, John A. Lees, Stephen D. Bentley, Simon D. W. Frost, and Jukka Corander. 2019. "Fast Hierarchical Bayesian Analysis of Population Structure." *Nucleic Acids Research*, May. https://doi.org/10.1093/nar/gkz361.
+
+Wailan, Alexander M., Francesc Coll, Eva Heinz, **Gerry Tonkin-Hill**, Jukka Corander, Nicholas A. Feasey, and Nicholas R. Thomson. 2019. "rPinecone: Define Sub-Lineages of a Clonal Expansion via a Phylogenetic Tree." *Microbial Genomics* 5 (4). https://doi.org/10.1099/mgen.0.000264.
+
+**Tonkin-Hill, Gerry**, John A. Lees, Stephen D. Bentley, Simon D. W. Frost, and Jukka Corander. 2018. "RhierBAPS: An R Implementation of the Population Clustering Algorithm hierBAPS." *Wellcome Open Research* 3 (July): 93.
+
+**Tonkin-Hill, Gerry**, Leily Trianty, Rintis Noviyanti, Hanh H. T. Nguyen, Boni F. Sebayang, Daniel A. Lampah, Jutta Marfurt, et al. 2018. "The Plasmodium Falciparum Transcriptome in Severe Malaria Reveals Altered Expression of Genes Involved in Important Processes Including Surface Antigen-Encoding Var Genes." *PLoS Biology* 16 (3): e2004328.
+
+Thomas, Oliver R. B., Stephen E. Swearer, Eugene A. Kapp, Po Peng, **Gerry Tonkin-Hill**, Anthony Papenfuss, Anne Roberts, Pascal Bernard, and Blaine R. Roberts. 2018. "The Inner Ear Proteome of Fish." *The FEBS Journal*, December. https://doi.org/10.1111/febs.14715.
+
+Lees, John A., **Gerry Tonkin-Hill**, and Stephen D. Bentley. 2017. "Stronger Together." *Nature Reviews. Microbiology*, August. https://doi.org/10.1038/nrmicro.2017.95.
+
+Chou, Evelyn S., Sabia Z. Abidi, Marian Teye, Aleksandra Leliwa-Sytek, Thomas S. Rask, Simon A. Cobbold, **Gerry Tonkin-Hill**, et al. 2017. "A High Parasite Density Environment Induces Transcriptional Changes and Cell Death in Plasmodium Falciparum Blood Stages." *The FEBS Journal*, December. https://doi.org/10.1111/febs.14370.
+
+Ruybal-Pesántez, Shazia, Kathryn E. Tiedje, **Gerry Tonkin-Hill**, Thomas S. Rask, Moses R. Kamya, Bryan Greenhouse, Grant Dorsey, Michael F. Duffy, and Karen P. Day. 2017. "Population Genomics of Virulence Genes of Plasmodium Falciparum in Clinical Isolates from Uganda." *Scientific Reports* 7 (1): 11810.
+
+Mitchell, Michela L., Brett R. Hamilton, Bruno Madio, Rodrigo A. V. Morales, **Gerry Tonkin-Hill**, Anthony T. Papenfuss, Anthony W. Purcell, Glenn F. King, Eivind A. B. Undheim, and Raymond S. Norton. 2017. "The Use of Imaging Mass Spectrometry to Study Peptide Toxin Distribution in Australian Sea Anemones." *Australian Journal of Chemistry*, August. https://doi.org/10.1071/CH17228.

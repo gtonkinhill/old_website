@@ -2,6 +2,9 @@
 title: "Software"
 ---
 
+###[panaroo](https://github.com/gtonkinhill/panaroo/)
+An error aware pipeline for pangenome investigation
+
 ###[fastBAPS](https://github.com/gtonkinhill/fastbaps/)
 A fast approximation to a Dirichlet Process Mixture model (DPM) for clustering genetic data
 
